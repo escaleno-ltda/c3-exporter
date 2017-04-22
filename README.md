@@ -1,5 +1,7 @@
 # c3-exporter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lgaticaq/c3-exporter.svg)](https://greenkeeper.io/)
+
 [![npm version](https://img.shields.io/npm/v/c3-exporter.svg?style=flat-square)](https://www.npmjs.com/package/c3-exporter)
 [![npm downloads](https://img.shields.io/npm/dm/c3-exporter.svg?style=flat-square)](https://www.npmjs.com/package/c3-exporter)
 [![dependency Status](https://img.shields.io/david/lgaticaq/c3-exporter.svg?style=flat-square)](https://david-dm.org/lgaticaq/c3-exporter#info=dependencies)
