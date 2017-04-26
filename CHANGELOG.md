@@ -1,3 +1,9 @@
+#### 0.0.4 (2017-4-26)
+
+##### Bug Fixes
+
+* **package:** Fix d3 version to 3.5.17 ([19cdfa0d](https://github.com/lgaticaq/c3-exporter/commit/19cdfa0d523e64164c216f45c7ce69ef9298df0b))
+
 #### 0.0.3 (2017-4-26)
 
 ##### Bug Fixes
