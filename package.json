@@ -1,6 +1,6 @@
 {
   "name": "c3-exporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Export c3 charts to png",
   "main": "index.js",
   "scripts": {
