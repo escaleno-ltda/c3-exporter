@@ -32,11 +32,11 @@ var page = require('webpage').create(),
   system = require('system'),
   config = {
     'js': [
-      phantom.libraryPath + '/node_modules/d3/d3.min.js',
-      phantom.libraryPath + '/node_modules/c3/c3.min.js'
+      phantom.libraryPath + '/../d3/d3.min.js',
+      phantom.libraryPath + '/../c3/c3.min.js'
     ],
     'css': [
-      phantom.libraryPath + '/node_modules/c3/c3.min.css'
+      phantom.libraryPath + '/../c3/c3.min.css'
     ],
 
     'template': '<html><head><meta charset="utf-8"><style>{0}</style></head><body><div id="chart"></div></body></html>'
