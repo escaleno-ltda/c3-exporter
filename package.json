@@ -29,6 +29,7 @@
   "homepage": "https://github.com/lgaticaq/c3-exporter#readme",
   "dependencies": {
     "c3": "^0.4.11",
+    "d3": "^4.8.0",
     "phantomjs-prebuilt": "^2.1.14"
   },
   "devDependencies": {

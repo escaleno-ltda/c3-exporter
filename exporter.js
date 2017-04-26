@@ -32,7 +32,7 @@ var page = require('webpage').create(),
   system = require('system'),
   config = {
     'js': [
-      phantom.libraryPath + '/../d3/d3.min.js',
+      phantom.libraryPath + '/../d3/build/d3.min.js',
       phantom.libraryPath + '/../c3/c3.min.js'
     ],
     'css': [
