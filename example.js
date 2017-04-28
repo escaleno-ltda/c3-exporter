@@ -20,4 +20,4 @@ const options = {
   }
 }
 
-await c3Exporter(options)
+await c3Exporter(options) // A Buffer with content of image chart

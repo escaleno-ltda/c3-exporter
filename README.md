@@ -38,9 +38,14 @@ const options = {
     height: 320
   }
 }
+const size = '320x320' // optional. Default is '320x320'
 
-c3Exporter(options).then(chart => {
-  console.log(chart) // /tmp/user/chart-1954112493.png
+c3Exporter(options, size).then(content => {
+  console.log(content) // A Buffer with content of image chart
+  fs.writeFile('chart.png', content, err => {
+    if (err) throw err
+    console.log('Chart saved!')
+  })
 }).catch(console.error)
 ```
 
