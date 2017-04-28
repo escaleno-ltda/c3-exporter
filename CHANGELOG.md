@@ -1,3 +1,9 @@
+## 1.0.0 (2017-4-28)
+
+##### New Features
+
+* **render:** Change output to Buffer ([6dc36630](https://github.com/lgaticaq/c3-exporter/commit/6dc36630fc8fe22e2b2ed42feea3cb8e3428335f))
+
 #### 0.0.4 (2017-4-26)
 
 ##### Bug Fixes
