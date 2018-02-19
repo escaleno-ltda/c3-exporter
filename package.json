@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "generate-changelog": "1.7.0",
-    "standard": "10.0.3"
+    "standard": "11.0.0"
   },
   "standard": {
     "env": {
