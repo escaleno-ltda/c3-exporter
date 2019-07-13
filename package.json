@@ -33,7 +33,7 @@
     "phantomjs-prebuilt": "^2.1.14"
   },
   "devDependencies": {
-    "generate-changelog": "1.7.1",
+    "generate-changelog": "1.8.0",
     "standard": "11.0.1"
   },
   "standard": {
